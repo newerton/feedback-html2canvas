@@ -125,7 +125,7 @@ window.Feedback = function( options ) {
                 }
             }
 
-            var a = element("a", "×"),
+            var a = element("a", "Ã—"),
             modalHeader = document.createElement("div"),
             // modal container
             modalFooter = document.createElement("div");
@@ -591,7 +591,7 @@ window.Feedback.Screenshot.prototype.start = function( modal, modalHeader, modal
 
         };
 
-        this.highlightClose = element("div", "×");
+        this.highlightClose = element("div", "Ã—");
         this.blackoutBox = document.createElement('div');
         this.highlightBox = document.createElement( "canvas" );
         this.highlightContainer = document.createElement('div');
