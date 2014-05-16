@@ -1,0 +1,15 @@
+{
+    "name": "newerton/feedback-html2canvas",
+    "type": "library",
+    "description": "With feedback.js plugin repository and html2canvas with layout Bootstrap 3",
+    "keywords": ["feedback","html2canvas"],
+    "homepage": "http://experiments.hertzen.com/jsfeedback/",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Newerton Vargas de Araujo",
+            "email": "contato@newerton.com.br",
+            "homepage": "http://www.newerton.com.br/"
+        }
+    ]
+}
